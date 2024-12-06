@@ -1,0 +1,23 @@
+how to setup
+
+command
+python -m venv venv
+venv/scripts/activate
+pip install -r requirements.txt
+
+####################################
+
+how to run backend
+command
+1 > venv/scripts/activate
+2 > cd fastapi_app
+3 > fastapi run main.py
+
+####################################
+how to run frontend
+command
+
+> kivy_app
+1 > rightclick the app.py
+2 > python app.py
+  > py app.py
